@@ -1,0 +1,32 @@
+.mainHeader {
+	background-color: black;
+	color: white;
+}
+
+.sidebar {
+	background-color: #999;
+}
+
+.calloutStyle{
+	margin-top: 30px;
+}
+
+.box1 {
+	background-color: yellow;
+
+}
+.box2 {
+	background-color: green;
+}
+.box3 {
+	background-color: orange;
+}
+
+.form {
+	margin-left: 50px;
+}
+
+.font-family: 'Bebas Neue', cursive;
+.font-family: 'Oswald', sans-serif;
+
+.footer
