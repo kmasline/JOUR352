@@ -1,0 +1,74 @@
+.mainHeader {
+	background-color: #4F2683;
+	color:#FFC62F ;
+}
+
+.sidebar {
+	background-color: #FFC62F;
+	border-color: black;
+	border-width: 5px;
+}
+
+.calloutStyle{
+	margin-top: 30px;
+}
+
+.box1 {
+	background-color: #4F2683;
+	color: #FFC62F;
+
+}
+.box2 {
+	background-color: #FFC62F;
+	color: #4F2683;
+}
+.box3 {
+	background-color: #4F2683;
+	color: #FFC62F;
+}
+
+
+body {
+	font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+}
+
+h2 {
+	font-family: 'Oswald', sans-serif;
+	background-color:#4F2683 ;
+	color:#FFC62F ;
+
+}
+
+h3 {
+	font-family: 'Oswald', sans-serif;
+	color: #ffffff;
+	
+}
+
+h4 {
+	font-family: 'Oswald', sans-serif;
+	color: #4F2683;
+}
+
+ol {
+	font-family: 'Oswald', sans-serif;
+	color: #4F2683;
+}
+
+ul {
+	font-family: 'Oswald', sans-serif;
+	color: #4F2683;
+}
+
+p {
+	color: #4F2683;
+}
+
+h6 {
+	font-family: 'Oswald', sans-serif;
+}
