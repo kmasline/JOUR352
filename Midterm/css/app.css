@@ -1,0 +1,82 @@
+.mainHeader {
+	background-color: lightgray;
+	color:white ;
+}
+
+.sidebar {
+	background-color: black;
+	border-color: black;
+	border-width: 5px;
+	color: white;
+}
+
+.calloutStyle{
+	margin-top: 30px;
+}
+
+.box1 {
+	background-color: darkgray;
+	color: black;
+
+}
+.box2 {
+	background-color: darkgray;
+	color: black;
+}
+.box3 {
+	background-color: darkgray;
+	color: black;
+}
+
+
+body {
+	font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	color: darkblue;
+}
+
+h2 {
+	font-family: 'Oswald', sans-serif;
+	background-color:darkblue ;
+	color:white ;
+
+}
+
+h3 {
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	background-color: black;
+	
+}
+
+h4 {
+	font-family: 'Oswald', sans-serif;
+	color: white;
+}
+
+h5 {
+	font-family: 'Oswald', sans-serif;
+	color: black;
+}
+
+ol {
+	font-family: 'Oswald', sans-serif;
+	color: black;
+}
+
+ul {
+	font-family: 'Oswald', sans-serif;
+	color: #4F2683;
+}
+
+p {
+	color: black;
+}
+
+h6 {
+	font-family: 'Oswald', sans-serif;
+}
